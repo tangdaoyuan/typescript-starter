@@ -29,7 +29,7 @@ importers:
       '@vitejs/plugin-vue': 2.3.3
       typescript: 4.7.2
       vite: 2.9.9
-      vite-plugin-reload: 0.0.3
+      vite-plugin-reload: 0.0.4
       vue: 3.2.36
       vue-tsc: 0.35.2
     dependencies:
@@ -38,7 +38,7 @@ importers:
       '@vitejs/plugin-vue': 2.3.3_vite@2.9.9+vue@3.2.36
       typescript: 4.7.2
       vite: 2.9.9
-      vite-plugin-reload: 0.0.3_vite@2.9.9
+      vite-plugin-reload: 0.0.4_vite@2.9.9
       vue-tsc: 0.35.2_typescript@4.7.2
 
 packages:
@@ -3698,8 +3698,8 @@ packages:
       spdx-expression-parse: 3.0.1
     dev: true
 
-  /vite-plugin-reload/0.0.3_vite@2.9.9:
-    resolution: {integrity: sha512-7d4S5+9nuE+xMDlQRboa36aqelOry3kzXzh2NnkDUJDU8UxqJcF9fv3Y6N1iHVqdwMNL18/fbKJ+bRjC7P2f3A==}
+  /vite-plugin-reload/0.0.4_vite@2.9.9:
+    resolution: {integrity: sha512-kz80zLa6cIzuJncIeCZPbAmbB+y4oPA9ZaR+gDRnhvPZ59fAie2P+/GQzIYlTNGsznbz7PLSB+YnupDPejzkUQ==}
     peerDependencies:
       vite: ^2.9.6
     dependencies:
