@@ -23,7 +23,7 @@ jobs:
           cache: pnpm
 
       - name: Install
-        run: pnpm install
+        run: pnpm install --lockfile-only
 
       - name: Lint
         run: pnpm run lint
@@ -44,7 +44,7 @@ jobs:
           cache: pnpm
 
       - name: Install
-        run: pnpm install
+        run: pnpm install --lockfile-only
 
       - name: TypeCheck
         run: pnpm run typecheck
@@ -71,7 +71,7 @@ jobs:
           cache: pnpm
 
       - name: Install
-        run: pnpm install
+        run: pnpm install --lockfile-only
 
       - name: Unit Test
         run: pnpm run test:run
