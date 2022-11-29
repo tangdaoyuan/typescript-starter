@@ -49,7 +49,7 @@
     "picocolors": "^1.0.0"
   },
   "devDependencies": {
-    "@suger-tdy/eslint-config": "1.1.13",
+    "@suger-tdy/eslint-config": "2.0.3",
     "bumpp": "8.2.1",
     "esbuild": "0.15.16",
     "eslint": "8.28.0",
