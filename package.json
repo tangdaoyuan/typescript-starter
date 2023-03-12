@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@suger-tdy/eslint-config": "1.1.14",
-    "bumpp": "8.2.1",
+    "bumpp": "9.0.0",
     "esbuild": "0.17.11",
     "eslint": "8.36.0",
     "tsx": "3.12.3",
